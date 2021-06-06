@@ -15,3 +15,9 @@
 -Techniques used: 
 1-Python programming language : (Imperative structured procedual programming paradigm).
 2-Python Modules(Libraries) : Curses & Random.
+
+-New version's Feautures (1.1): 
+1-Player name added.
+2-Snake's & Food's Color changed.
+3-Score added.
+3-Game over screen added including (final score).
